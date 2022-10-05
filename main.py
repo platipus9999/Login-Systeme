@@ -7,8 +7,8 @@ IP = True
 HWID = True
 
 #modif
-PASTEBIN = "https://pastebin.com/raw/qSCyiVgN"
-WEBHOOK = "https://discord.com/api/webhooks/1021458341635051537/EWhSZzfIAsL0U8B9_DMaEuFrcNI4_WS3OjfcwE87Pv-iVWIGlZL6dnm4ssdUeeWUItR2"
+PASTEBIN = "YOUR PASTEBIN LINK"
+WEBHOOK = "YOUR WEEBHOOK"
 
 banner = Center.XCenter(Colorate.Horizontal(Colors.blue_to_cyan,"""
     
